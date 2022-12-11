@@ -48,5 +48,5 @@ mongoose
   });
 
 app.get('/', (req, res) => {
-  res.send(`server connected succuse`)
+  res.send(`server connected succesee`)
 })
